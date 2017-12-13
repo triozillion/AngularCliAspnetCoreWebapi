@@ -24,7 +24,7 @@ This sample is meant as starting steps to create a standard ASP.NET WEB API proj
 > **Step 4: Create @Angular/Cli command line project :**
 --------------------------------------------------------
 
-> - Open Visual Studio Core
+> - Open Visual Studio Code
 > - **#File -> Open Folder** (select/ create folder)
 > - Navigate to **#View-> Integrated Terminal** 
 > - Create Angular project template **:> ng new projectName**   ( e.g ng new AngularAspnetWebapi)
