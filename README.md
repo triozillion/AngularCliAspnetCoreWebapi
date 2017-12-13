@@ -160,8 +160,8 @@ Update **value.component.html** with following
 ```
 // New code 
 <div>
-  <button (click)="getValue()">Load values</button>
-  {{ profile | json }}
+  <button (click)="getValues()">Load values</button>
+  {{ value | json }}
 </div>
 
 ```
