@@ -5,12 +5,6 @@ Working with Angular/Cli + ASP.NET Web API + VSCore !
 
 This sample is meant as starting steps to create a standard ASP.NET WEB API project using dotnet Cli command and integrate with Angualr library with the help of @Angular/Cli command to make use of all the cli features.
 
-Content
--------------
-
-
-Document
--------------
 
 > **Step 1: Install NodeJs:**
 -----------------------------
