@@ -1,0 +1,10 @@
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\bin\Debug\netcoreapp2.0\AngularAspnetWebapi.deps.json
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\bin\Debug\netcoreapp2.0\AngularAspnetWebapi.runtimeconfig.json
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\bin\Debug\netcoreapp2.0\AngularAspnetWebapi.runtimeconfig.dev.json
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\bin\Debug\netcoreapp2.0\AngularAspnetWebapi.dll
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\bin\Debug\netcoreapp2.0\AngularAspnetWebapi.pdb
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\obj\Debug\netcoreapp2.0\AngularAspnetWebapi.csproj.CoreCompileInputs.cache
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\obj\Debug\netcoreapp2.0\AngularAspnetWebapi.AssemblyInfoInputs.cache
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\obj\Debug\netcoreapp2.0\AngularAspnetWebapi.AssemblyInfo.cs
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\obj\Debug\netcoreapp2.0\AngularAspnetWebapi.dll
+c:\Users\slakshminarasi\Documents\Angular\TestCli\AngularAspnetWebapi\obj\Debug\netcoreapp2.0\AngularAspnetWebapi.pdb
