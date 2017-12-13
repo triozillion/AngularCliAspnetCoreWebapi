@@ -6,22 +6,22 @@ Working with Angular/Cli + ASP.NET Web API + VSCode !
 This sample is meant as starting steps to create a standard ASP.NET WEB API project using dotnet Cli command and integrate with Angualr library with the help of @Angular/Cli command to make use of all the cli features.
 
 
-> **Step 1: Install NodeJs:**
+ **Step 1: Install NodeJs:**
 -----------------------------
 
-> - Download and install node js from https://nodejs.org/en/download/
+ - Download and install node js from https://nodejs.org/en/download/
 
-> **Step 2: Install @Angular/Cli:**
+ **Step 2: Install @Angular/Cli:**
 -----------------------------------
 
-> - Download and install @Angular/Cli using  **npm install -g @angular/cli**
+ - Download and install @Angular/Cli using  **npm install -g @angular/cli**
 
-> **Step 3: Install Visual Studio Code:**
+ **Step 3: Install Visual Studio Code:**
 -----------------------------------------
 
-> - Download and install latest version of Visual Studio Code from https://code.visualstudio.com/docs/setup/windows
+- Download and install latest version of Visual Studio Code from https://code.visualstudio.com/docs/setup/windows
 
-> **Step 4: Create @Angular/Cli command line project :**
+ **Step 4: Create @Angular/Cli command line project :**
 --------------------------------------------------------
 
 > - Open Visual Studio Code
@@ -30,7 +30,7 @@ This sample is meant as starting steps to create a standard ASP.NET WEB API proj
 > - Create Angular project template **:> ng new projectName**   ( e.g ng new AngularAspnetWebapi)
 > - Navigate to project folder **#File -> Open Folder -> new directory path** ( e.g AngularAspnetWebapi )
 
-> **Step 5: Create VSCode dotnet cli asp.net web api project :**
+ **Step 5: Create VSCode dotnet cli asp.net web api project :**
 ----------------------------------------------------------------
 
 > - Your @ new directory ( e.g AngularAspnetWebapi)
@@ -40,7 +40,7 @@ This sample is meant as starting steps to create a standard ASP.NET WEB API proj
 > - don't build the project ( its better to compile and launch application using - **launch.json and tasks.json**  )
  
 
-> **Step 6: Change config file - link web api and angular cli output :**
+ **Step 6: Change config file - link web api and angular cli output :**
 ------------------------------------------------------------------------
 
 > - Navigate & open .angular-cli.json file 
@@ -81,7 +81,7 @@ This sample is meant as starting steps to create a standard ASP.NET WEB API proj
 ```
 > - build angular project using **:>ng build** ( angular output at wwwroot folder)
 
-> **Step 7: Create Angular component:**
+**Step 7: Create Angular component:**
 ----------------------------------------
 
  ASP.NET Web API project will create default controller under Controller folder 
@@ -166,7 +166,8 @@ Update **value.component.html** with following
 
 ```
 
-> **Step 8: Angular Routing:**
+ **Step 8: Angular Routing:**
+ -----------------------------
 
 Setup angular routing for new component 
 Go to **app.module.ts** file and update following 
@@ -264,7 +265,8 @@ Update **app.component.html** file
 ```
 
 
-> **Step 9: Update startup.cs file :**
+ **Step 9: Update startup.cs file :**
+ -----------------------------
 
 Add **UseDefaultFiles** ( web server look for default file index.html ) and **UseStaticFile** ( web server look for wwwroot folder ) to Startup.cs middleware 
 
@@ -291,7 +293,8 @@ Add **UseDefaultFiles** ( web server look for default file index.html ) and **Us
 ```
 
 
-> **Step 10: Execute and Run project :**
+ **Step 10: Execute and Run project :**
+ -----------------------------
 
 There are many way to configure build configuration below is the simplest one 
 
